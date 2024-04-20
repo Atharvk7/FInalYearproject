@@ -19,6 +19,7 @@ chardet==4.0.0
 charset-normalizer==3.3.2
 click==8.1.7
 comm==0.2.0
+command-not-found==0.3
 contourpy==1.2.0
 cryptography==3.4.8
 cycler==0.12.1
@@ -35,6 +36,7 @@ fastapi==0.104.1
 fastjsonschema==2.18.1
 fonttools==4.47.2
 fqdn==1.5.1
+gunicorn==20.1.0
 h11==0.14.0
 httplib2==0.20.2
 idna==3.3
